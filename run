@@ -1,0 +1,4 @@
+./BDTG_foreach_MC_2017.exe /depot/cms/users/wxie/pp_pthead2_MC_Dntuple/Delta_pt2_whole.root
+./BDTG_foreach_MC_2017.exe /depot/cms/users/wxie/pp_pthead2_MC_Dntuple/Lambda1520_pt2_whole.root
+./BDTG_foreach_MC_2017.exe /depot/cms/users/wxie/pp_pthead2_MC_Dntuple/k892_pt2_whole.root
+./BDTG_foreach_MC_2017.exe /depot/cms/users/wxie/pp_pthead2_MC_Dntuple/pkpi_pt2_whole.root

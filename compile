@@ -1,0 +1,6 @@
+cd ~/CMSSW_10_3_3_patch1/src/
+cmsenv
+cd -
+module load modtree/deprecated
+g++ BDTG_foreach_MC_2017.C $(root-config --cflags --libs) -Wall -O2 -o BDTG_foreach_MC_2017.exe
+
